@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "eduardlondonogarcia1@gmail.com",
+                "Name": "Eduard Damiam Londoño"
+            }
+        ],
+        "Category": "Entertainment",
+        "Description": "A widget to Visualize",
+        "Icon": "applications-games",
+        "Id": "com.github.thelement115.plasma-widget-fgo",
+        "Name": "FGO",
+        "Version": "1",
+        "Website": "https://github.com/thelement115/plasma-widget-fgo"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
